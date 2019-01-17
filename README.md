@@ -3,7 +3,7 @@ A dog breed classifier that uses a provided CNN architecture to identify dog bre
 
 # Usage 
 Command to execute classifier: </br>
-```python check_images.py --dir \<directory with images> --arch \<model> --dogfile \<file that contains dognames>```
+```python check_images.py --dir <directory with images> --arch <model> --dogfile <file that contains dognames>```
 
 Batch execution: </br> 
 ```sh run_models_batch.sh```
